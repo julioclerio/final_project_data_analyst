@@ -23,6 +23,12 @@ Contains the diverse datasets,  IBGE IPSA index, Public Security Department reco
 ### Notebooks: 
 Access Jupyter Notebooks detailing the data integration, cleaning, and analysis processes. This includes data treatment.
 
+### Power BI & Looker Studio Visualizations: 
+Explore interactive visualizations created in Power BI and Looker Studio, enabling a comprehensive view of insights derived from the analysis.
+
+### Presentation PDF: 
+Find a detailed presentation PDF outlining the analysis process, findings, and strategic marketing plan.
+
 ## How to Navigate the Project
 1 - Review the notebooks section to understand the data integration, cleaning, and analysis methodologies.
 
@@ -33,11 +39,10 @@ Access Jupyter Notebooks detailing the data integration, cleaning, and analysis 
 ## Contribution
 If you have ideas to enhance the analysis, improve the marketing strategy, or further optimize data treatment, feel free to submit pull requests.
 
+## Datasets:
+### IBGE
+https://cidades.ibge.gov.br/brasil/sp/sao-paulo/pesquisa/22/28120?ano=2022&indicador=28122
 
 
 
-### Power BI & Looker Studio Visualizations: 
-Explore interactive visualizations created in Power BI and Looker Studio, enabling a comprehensive view of insights derived from the analysis.
 
-### Presentation PDF: 
-Find a detailed presentation PDF outlining the analysis process, findings, and strategic marketing plan.
